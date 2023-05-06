@@ -1,0 +1,7 @@
+com\jala\testsuites\UserTest.class
+com\jala\testsuites\SearchTest.class
+com\jala\testsuites\MoreTest.class
+com\jala\selenium\framework\BaseTest.class
+com\jala\selenium\pageobjects\PageObjects.class
+com\jala\selenium\pageobjects\PageActions.class
+com\jala\testsuites\LoginTest.class
